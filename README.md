@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-👦🏽 🇧🇷   Brazil<br>⚕️  Ψ  M.D  Psychiatrist<br>💻 👩🏽‍🏫 CS Student<br>⚙️ 🎨 Freelancer in Digital arts and Programming
+# 💫 About Me:<br>   
+   
+🇧🇷   Brazil<br>
+⚕️  M.D  Psychiatrist<br>
+💻  CS Student<br>
+⚙️ 🎨 Freelancer in Digital arts and Programming
 
 
 ## 🌐 Socials:
